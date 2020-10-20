@@ -1,0 +1,2 @@
+*{font-family:Georgia,serif}.App{display:flex;justify-content:center;align-items:center;flex-direction:column}.App__list{display:grid;grid-row-gap:20px;row-gap:20px}.App__task{padding:10px;background-color:pink;border-radius:10px;transition:box-shadow .3s ease}.App__task:hover{box-shadow:0 0 5px #bdbbbb}.App__title{text-transform:uppercase;font-weight:700}.App__status{font-style:italic;margin-top:10px;color:#3a3a3a}.App__name{margin-top:5px;color:#3a3a3a}
+/*# sourceMappingURL=main.d4e5c98e.chunk.css.map */
